@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebViewExample</string>
+    <string name="txt_open_for_webview">Open for WebView</string>
+    <string name="txt_open_for_intent">Open for Intent</string>
+</resources>
